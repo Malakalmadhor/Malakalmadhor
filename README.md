@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Malakalmadhor
-- 👀 I’m interested in Ai and Coding
-- 🌱 I’m currently learning to become Full stack web developer 
+- Hi, I’m @Malakalmadhor
+- I’m interested in Ai and Coding
+- I’m currently learning to become Full stack developer 
 
 <!---
 Malakalmadhor/Malakalmadhor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
